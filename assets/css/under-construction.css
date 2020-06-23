@@ -1,0 +1,131 @@
+/* Common */
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Roboto', sans-serif;
+}
+
+.swal2-icon.swal2-error.swal2-icon-show {
+	margin-top:0;
+	margin-bottom:15px;
+}
+
+.swal2-styled.swal2-confirm {
+	background:#47ADCC !important;
+	border-radius:0 !important;
+}
+
+.swal2-styled.swal2-confirm:hover {
+	background:#2D6C80 !important;
+}
+
+.swal2-popup {
+	border-radius:0 !important;
+}
+
+.swal2-title {
+	font-size:1.6rem !important;
+}
+
+/* Content */
+#contentBox {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-color:#eee;
+    padding:0 20px;
+    background-size:cover;
+    background-position:center center;
+}
+
+.logoBox .logo {
+    display:flex;
+    width:100%;
+    justify-content:center;
+    margin-bottom:20px;
+}
+
+.logoBox .logo img {
+    max-width:200px;
+}
+
+.logoBox h1 {
+    font-weight:900;
+    font-size:3rem;
+    margin-bottom:10px;
+    text-align:center;
+    line-height:3rem;
+    color:black;
+}
+
+.logoBox h3 {
+    text-align:center;
+    font-size:1.6rem;
+    font-weight:300;
+    line-height:2.2rem;
+}
+
+#footerSignUp {
+    text-align:center;
+    margin-top:10px;
+}
+
+#footerSignUp div:first-child {
+    margin-bottom:10px;
+}
+
+#footerSignUp input {
+    padding:8px 10px;
+    display:inline-block;
+    min-width:260px;
+    font-size:1rem;
+    text-align:center;
+}
+
+#footerSignUp button {
+    padding:10px 14px;
+    background-color:black;
+    border:0;
+    color:#47ADCC;
+    cursor:pointer;
+    color:white;
+}
+
+#footerSignUp button:hover {
+    background-color:#2d6c80;
+}
+
+#footerSignUp .error_input {
+    border:solid 1px red;
+}
+
+
+/* Responsive */
+@media(max-width:480px) {
+    .logoBox .logo img {
+        max-width:160px;
+    }
+
+    .logoBox h1 {
+        font-size:2.4rem;
+        line-height:2.2rem;
+    }
+
+    .logoBox h3 {
+        font-size:1.4rem;
+        line-height:1.4rem;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+

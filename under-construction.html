@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="j4Sail Dev">
+
+    <title>j4Sail - Under Construction</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="favicon.png">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i,900,900i&display=swap" rel="stylesheet">
+
+    <!-- Custom CSS -->    
+    <link type="text/css" rel="stylesheet" href="assets/css/under-construction.css">
+    
+</head>
+<body>
+    <section id="contentBox" style="background-image:url(assets/img/pixabay-construction-freephotos-staircase-hole-02.jpg);">
+        <div class="logoBox">
+            <a class="logo" href="under-construction.html">
+                <img src="assets/img/logo-j4sail-640.png" alt="logo">
+            </a>
+            <h1>Site is Under Construction</h1>
+            <h3>Subscribe to Our Newsletter</h3>
+            <form id="footerSignUp" action="#" method="POST" v-cloak>
+                <div><input placeholder="Email Address" type="text" v-model='form.inputs.email' :class='form.errors.email ? "error_input" : ""'>
+                </div>
+                <div v-show='!isLoading'><button class="btn btn-primary px-3 py-2" @click='submitForm(event, "underConstruction")'><b>Submit</b> <i class="fab fa-telegram-plane"></i></button></div>
+                <div v-show='isLoading'><strong>Sending form, please wait..</strong></div>
+            </form>
+        </div>
+    </section>
+
+    <script type="text/javascript" src="assets/vendor/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/vendor/vue-v2.6.11.js"></script>
+    <script type="text/javascript" src="assets/vendor/sweetalert29.js"></script>
+    <script type="text/javascript" src="assets/js/under-construction.js"></script>
+</body>
+</html>
