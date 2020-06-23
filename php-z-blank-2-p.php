@@ -2,7 +2,7 @@
 
     <!-- Main Content -->
     <section id="main">
-        <div class="pageHeader downSize bgCover mb60" style='background-image:url(assets/img/pixabay-business-bg-activedia-small.jpg)'>
+        <div class="pageHeader downSize bgCover mb60" style='background-image:url(assets/img/placeholder-1920x160.png)'>
             <div class="container">
                 <div class="row">
                     <div class="ccol col-md-12">

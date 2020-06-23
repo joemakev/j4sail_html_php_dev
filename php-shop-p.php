@@ -2,7 +2,7 @@
 
     <!-- Main Content -->
     <section id="main">
-        <div class="pageHeader downSize bgCover mb60" style='background-image:url(assets/img/pixabay-computer-freephotocc-laptop-coffee-02.jpg)'>
+        <div class="pageHeader downSize bgCover mb60" style='background-image:url(assets/img/placeholder-1920x160.png)'>
             <div class="container">
                 <div class="row">
                     <div class="ccol col-md-12">
@@ -88,7 +88,7 @@
                                     <li>
                                         <a href="#">
                                             <div>
-                                                <img src="assets/img/products/product-related-01.jpg" alt="product">
+                                                <img src="assets/img/placeholder-300x300.png" alt="product">
                                             </div>
                                             <div>
                                                 <strong>USB Flash Drive</strong>
@@ -102,7 +102,7 @@
                                     <li>
                                         <a href="#">
                                             <div>
-                                                <img src="assets/img/products/product-related-02.jpg" alt="product">
+                                                <img src="assets/img/placeholder-300x300.png" alt="product">
                                             </div>
                                             <div>
                                                 <strong>Hard Disk Drive SATA for DESKTOP</strong>
@@ -116,7 +116,7 @@
                                     <li>
                                         <a href="#">
                                             <div>
-                                                <img src="assets/img/products/product-related-03.jpg" alt="product">
+                                                <img src="assets/img/placeholder-300x300.png" alt="product">
                                             </div>
                                             <div>
                                                 <strong>Network Cable (1 box, 100 meters)</strong>
@@ -167,7 +167,7 @@
                                         <div class="tagSale">
                                             <span>Sale</span>
                                         </div>
-                                        <img src="assets/img/products/product-list-02.jpg" alt="product">
+                                        <img src="assets/img/placeholder-800x800.png" alt="product">
                                         <div class="overlay"></div>
                                     </figure>
                                     <div class="productInfo">
@@ -183,7 +183,7 @@
                             <div class="product col-md-6">
                                 <a href="#">
                                     <figure class="photo">
-                                        <img src="assets/img/products/product-list-01.jpg" alt="product">
+                                        <img src="assets/img/placeholder-800x800.png" alt="product">
                                         <div class="overlay"></div>
                                     </figure>
                                     <div class="productInfo">
@@ -198,7 +198,7 @@
                             <div class="product col-md-6">
                                 <a href="#">
                                     <figure class="photo">
-                                        <img src="assets/img/products/product-list-03.jpg" alt="product">
+                                        <img src="assets/img/placeholder-800x800.png" alt="product">
                                         <div class="overlay"></div>
                                     </figure>
                                     <div class="productInfo">
@@ -216,7 +216,7 @@
                                         <div class="tagSale">
                                             <span>Sale</span>
                                         </div>
-                                        <img src="assets/img/products/product-list-04.jpg" alt="product">
+                                        <img src="assets/img/placeholder-800x800.png" alt="product">
                                         <div class="overlay"></div>
                                     </figure>
                                     <div class="productInfo">
@@ -235,7 +235,7 @@
                                         <div class="tagSale">
                                             <span>Sale</span>
                                         </div>
-                                        <img src="assets/img/products/product-list-05.jpg" alt="product">
+                                        <img src="assets/img/placeholder-800x800.png" alt="product">
                                         <div class="overlay"></div>
                                     </figure>
                                     <div class="productInfo">
@@ -251,7 +251,7 @@
                             <div class="product col-md-6">
                                 <a href="#">
                                     <figure class="photo">
-                                        <img src="assets/img/products/product-list-06.jpg" alt="product">
+                                        <img src="assets/img/placeholder-800x800.png" alt="product">
                                         <div class="overlay"></div>
                                     </figure>
                                     <div class="productInfo">
@@ -266,7 +266,7 @@
                             <div class="product col-md-6">
                                 <a href="#">
                                     <figure class="photo">
-                                        <img src="assets/img/products/product-list-07.jpg" alt="product">
+                                        <img src="assets/img/placeholder-800x800.png" alt="product">
                                         <div class="overlay"></div>
                                     </figure>
                                     <div class="productInfo">
@@ -284,7 +284,7 @@
                                         <div class="tagSale">
                                             <span>Sale</span>
                                         </div>
-                                        <img src="assets/img/products/product-list-08.jpg" alt="product">
+                                        <img src="assets/img/placeholder-800x800.png" alt="product">
                                         <div class="overlay"></div>
                                     </figure>
                                     <div class="productInfo">

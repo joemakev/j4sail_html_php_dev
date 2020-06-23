@@ -2,7 +2,7 @@
 
     <!-- Main Content -->
     <section id="main">
-        <div class="pageHeader bgCover mb60" style='background-image:url(assets/img/pixabay-pexels-business-archi-building-04.jpg)'>
+        <div class="pageHeader bgCover mb60" style='background-image:url(assets/img/placeholder-1920x450.png)'>
             <div class="container">
                 <div class="row">
                     <div class="ccol col-md-12">
@@ -20,7 +20,7 @@
             <div class="container">
                 <div class="row">
                     <div class="ccol col-md-3">
-                        <img src="assets/img/pixabay-corporate-nastyagepp-business-lady.jpg" alt="photo">
+                        <img src="assets/img/placeholder-994x1280.png" alt="photo">
                     </div>
                     <div class="ccol col-md-9">
                         <h2 class="textBlue mb-4"><b>Explore Company Opportunities</b></h2>

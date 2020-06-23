@@ -2,7 +2,7 @@
 
     <!-- Main Content -->
     <section id="main">
-        <div class="pageHeader bgCover mb60" style='background-image:url(assets/img/pixabay-business-earth-yingshen.jpg)'>
+        <div class="pageHeader bgCover mb60" style='background-image:url(assets/img/placeholder-1920x450.png)'>
             <div class="container">
                 <div class="row">
                     <div class="ccol col-md-12">
@@ -25,7 +25,7 @@
                         <p>Saepe imperdiet at per, appareat vituperata vix te, pri sint assueverit te. Vivendum intellegat et qui, ei denique consequuntur vix. Saepe imperdiet at per, appareat vituperata vix te, pri sint assueverit te. Offendit eleifend moderatius ex vix, quem odio mazim et qui, purto expetendis cotidieque quo cu, veri persius vituperata ei nec.</p>
                     </div>
                     <div class="col-md-3">
-                        <img class="photo" src="assets/img/pixabay-089photoshootings-men.jpg" alt="photo">
+                        <img class="photo" src="assets/img/placeholder-255x355.png" alt="photo">
                     </div>
                 </div>
             </div>
@@ -40,7 +40,7 @@
                 </div>
                 <div class="row">
                     <div class="ccol col-md-3 col-sm-6">
-                        <div class="mb-3"><img src="assets/img/team-photo-01.jpg" alt="photo"></div>
+                        <div class="mb-3"><img src="assets/img/placeholder-600x600.png" alt="photo"></div>
                         <h5><b>Erik Gancho</b></h5>
                         <div class="mb-1"><em>President</em></div>
                         <ul>
@@ -50,7 +50,7 @@
                         </ul>
                     </div>
                     <div class="ccol col-md-3 col-sm-6">
-                        <div class="mb-3"><img src="assets/img/team-photo-02.jpg" alt="photo"></div>
+                        <div class="mb-3"><img src="assets/img/placeholder-600x600.png" alt="photo"></div>
                         <h5><b>Joani Garcia</b></h5>
                         <div class="mb-1"><em>Vice President</em></div>
                         <ul>
@@ -60,7 +60,7 @@
                         </ul>
                     </div>
                     <div class="ccol col-md-3 col-sm-6">
-                        <div class="mb-3"><img src="assets/img/team-photo-03.jpg" alt="photo"></div>
+                        <div class="mb-3"><img src="assets/img/placeholder-600x600.png" alt="photo"></div>
                         <h5><b>Pedro Lechone</b></h5>
                         <div class="mb-1"><em>CEO</em></div>
                         <ul>
@@ -70,7 +70,7 @@
                         </ul>
                     </div>
                     <div class="ccol col-md-3 col-sm-6">
-                        <div class="mb-3"><img src="assets/img/team-photo-04.jpg" alt="photo"></div>
+                        <div class="mb-3"><img src="assets/img/placeholder-600x600.png" alt="photo"></div>
                         <h5><b>Luciana LimaDe</b></h5>
                         <div class="mb-1"><em>Secretary</em></div>
                         <ul>
@@ -80,7 +80,7 @@
                         </ul>
                     </div>
                     <div class="ccol col-md-3 col-sm-6">
-                        <div class="mb-3"><img src="assets/img/team-photo-05.jpg" alt="photo"></div>
+                        <div class="mb-3"><img src="assets/img/placeholder-600x600.png" alt="photo"></div>
                         <h5><b>Kulash Gomedov</b></h5>
                         <div class="mb-1"><em>Operations Manager</em></div>
                         <ul>
@@ -90,7 +90,7 @@
                         </ul>
                     </div>
                     <div class="ccol col-md-3 col-sm-6">
-                        <div class="mb-3"><img src="assets/img/team-photo-06.jpg" alt="photo"></div>
+                        <div class="mb-3"><img src="assets/img/placeholder-600x600.png" alt="photo"></div>
                         <h5><b>Rinah Kapiz</b></h5>
                         <div class="mb-1"><em>Secretary</em></div>
                         <ul>
@@ -100,7 +100,7 @@
                         </ul>
                     </div>
                     <div class="ccol col-md-3 col-sm-6">
-                        <div class="mb-3"><img src="assets/img/team-photo-07.jpg" alt="photo"></div>
+                        <div class="mb-3"><img src="assets/img/placeholder-600x600.png" alt="photo"></div>
                         <h5><b>Rhoi Delbrador</b></h5>
                         <div class="mb-1"><em>Software Engineer</em></div>
                         <ul>
@@ -110,7 +110,7 @@
                         </ul>
                     </div>
                     <div class="ccol col-md-3 col-sm-6">
-                        <div class="mb-3"><img src="assets/img/team-photo-08.jpg" alt="photo"></div>
+                        <div class="mb-3"><img src="assets/img/placeholder-600x600.png" alt="photo"></div>
                         <h5><b>Jaime Luchadr</b></h5>
                         <div class="mb-1"><em>Marketing Manager</em></div>
                         <ul>

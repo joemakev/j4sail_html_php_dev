@@ -2,7 +2,7 @@
 
     <!-- Main Content -->
     <section id="main">
-        <div class="pageHeader bgCover mb60" style='background-image:url(assets/img/pixabay-industry-jplenio-electricity-02.jpg)'>
+        <div class="pageHeader bgCover mb60" style='background-image:url(assets/img/placeholder-1920x450.png)'>
             <div class="container">
                 <div class="row">
                     <div class="ccol col-md-12">
@@ -24,7 +24,7 @@
                         <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Vivendum intellegat et qui, ei denique consequuntur vix. Vivendum intellegat et qui, ei denique consequuntur vix. Vivendum intellegat et qui, purto expetendis cotidieque quo cu, veri persius vituperata ei nec.</p>
                         
                         <div class="photo mb-3">
-                            <img class="inline_block_100" src="assets/img/pixabay-business-freephotos-conference-room.jpg" alt="photo">
+                            <img class="inline_block_100" src="assets/img/placeholder-1920x655.png" alt="photo">
                         </div>
 
                         <p>Offendit eleifend moderatius ex vix, quem odio mazim et qui, purto expetendis cotidieque quo cu, veri persius vituperata ei nec. Vivendum intellegat et qui, ei denique consequuntur vix. Unum dicam posidonium eu vix, sea eu ubique viderer civibus, oporteat signiferumque eos et. Electram intellegat voluptaria et eam, eam ex aperiri temporibus scriptorem. Offendit eleifend moderatius ex vix, quem odio mazim et qui, purto expetendis cotidieque quo cu, veri persius vituperata ei nec. Pri posse graeco definitiones cu, id eam populo quaestio adipiscing, usu quod malorum te. Vivendum intellegat et qui, ei denique consequuntur vix. Vivendum intellegat et qui, ei denique consequuntur vix.</p>
@@ -41,12 +41,12 @@
                         <h4 class="mb-2">Team Cooperation</h4>
                         <h2 class="mb-4"><b>Brainstorming to Meet the demands</b></h2>
                         <div class="photo mb-4">
-                            <img src="assets/img/pixabay-business-free-photos-workplace.jpg" alt="photo">
+                            <img src="assets/img/placeholder-1024x472.png" alt="photo">
                         </div>
                         <p>Saepe posse graeco definitiones cu, id eam populo quaestio adipiscing, usu quod malorum te. Vivendum intellegat et qui, ei denique. Saepe imperdiet, appareat vituperata vix te, pri sint assueverit te. Qui gloriatur scribentur et, id velit verear mel, cum no porro debet.</p>
                         <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse ducimus nostrum veniam amet exercitationem perferendis consequatur quae, non, quas inventore nisi. Illo possimus ea maiores unde. <a href="#"> Read more</a></p>
                     </div>
-                    <div class="ccol col-md-6 bgCover" style="background-image:url(assets/img/pixabay-business-free-photos-office-03.jpg)"></div>
+                    <div class="ccol col-md-6 bgCover" style="background-image:url(assets/img/placeholder-1024x576.png)"></div>
                 </div>
             </div>
         </div> <!-- halfBg reverse -->
@@ -70,7 +70,7 @@
                         <p class="mb-0"><b class="textBlue">Quem odio mazim et qui.</b> Purto expetendis cotidieque quo cu, veri persius vituperata ei nec. Vivendum intellegat et qui, ei denique consequuntur vix.</p>
                     </div>
                     <div class="ccol col-md-5 col-lg-3">
-                        <img class="inline_block_100" src="assets/img/pixabay-business-freephotos-person.jpg" alt="photo">
+                        <img class="inline_block_100" src="assets/img/placeholder-450x760.png" alt="photo">
                     </div>
                 </div>
             </div>

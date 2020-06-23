@@ -128,7 +128,7 @@
                                                     </p>
                                                     <figure class="product-photo">
                                                         <i class="close fas fa-times"></i>
-                                                        <img src="assets/img/products/product-related-01.jpg" alt="Gadget Item No. 1">
+                                                        <img src="assets/img/placeholder-300x300.png" alt="Gadget Item No. 1">
                                                     </figure>
                                                 </a>
                                             </li>
@@ -142,7 +142,7 @@
                                                     </p>
                                                     <figure class="product-photo">
                                                         <i class="close fas fa-times"></i>
-                                                        <img src="assets/img/products/product-related-02.jpg" alt="Gadget Item No. 2">
+                                                        <img src="assets/img/placeholder-300x300.png" alt="Gadget Item No. 2">
                                                     </figure>
                                                 </a>
                                             </li>
@@ -156,7 +156,7 @@
                                                     </p>
                                                     <figure class="product-photo">
                                                         <i class="close fas fa-times"></i>
-                                                        <img src="assets/img/products/product-related-03.jpg" alt="Gadget Item No. 3">
+                                                        <img src="assets/img/placeholder-300x300.png" alt="Gadget Item No. 3">
                                                     </figure>
                                                 </a>
                                             </li>

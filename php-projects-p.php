@@ -2,7 +2,7 @@
 
     <!-- Main Content -->
     <section id="main">
-        <div class="pageHeader bgCover bgRightBottom mb60" style='background-image:url(assets/img/pixabay-construction-syaibatulhamdi-cranes.jpg)'>
+        <div class="pageHeader bgCover bgRightBottom mb60" style='background-image:url(assets/img/placeholder-1920x450.png)'>
             <div class="container">
                 <div class="row">
                     <div class="ccol col-md-12">
@@ -25,7 +25,7 @@
 
                         <div class="projectSlider customSlider mb-4">
                             <div class="slide">
-                                <img src="assets/img/pixabay-construction-freephotos-condo.jpg" alt="photo">
+                                <img src="assets/img/placeholder-1200x600.png" alt="photo">
                                 <div class="overlay">
                                     <p>San Andrei, New Saturn Drive, AU</p>
                                     <h3><b>High Quality Apartments</b></h3>
@@ -35,7 +35,7 @@
                                 </div>
                             </div>
                             <div class="slide">
-                                <img src="assets/img/pixabay-construction-broesis-archi-tower.jpg" alt="photo">
+                                <img src="assets/img/placeholder-1200x600.png" alt="photo">
                                 <div class="overlay">
                                     <p>Overhead Street, Green Windows, AE</p>
                                     <h3><b>Brilliant Architecture</b></h3>
@@ -45,7 +45,7 @@
                                 </div>
                             </div>
                             <div class="slide">
-                                <img src="assets/img/pixabay-door-broesis-steel-door.jpg" alt="photo">
+                                <img src="assets/img/placeholder-1200x600.png" alt="photo">
                                 <div class="overlay">
                                     <p>Round Area, New Space, PH</p>
                                     <h3><b>Durable Steel Doors and Panels</b></h3>
@@ -93,7 +93,7 @@
                     <div class="galleryCol col-md-12">
                         <div class="galleryRow filter1">
                             <a href="#" class="g_item">
-                                <img src="assets/img/projects/project-photo-0003.jpg" alt="photo">
+                                <img src="assets/img/placeholder-640x700.png" alt="photo">
                                 <div class="text">
                                     <div>
                                         <h4><b>Project Title Text</b></h4>
@@ -102,7 +102,7 @@
                                 </div>
                             </a>
                             <a href="#" class="g_item">
-                                <img src="assets/img/projects/project-photo-0001.jpg" alt="photo">
+                                <img src="assets/img/placeholder-640x700.png" alt="photo">
                                 <div class="text">
                                     <div>
                                         <h4><b>Project Title Text</b></h4>
@@ -111,7 +111,7 @@
                                 </div>
                             </a>
                             <a href="#" class="g_item">
-                                <img src="assets/img/projects/project-photo-0009.jpg" alt="photo">
+                                <img src="assets/img/placeholder-640x700.png" alt="photo">
                                 <div class="text">
                                     <div>
                                         <h4><b>Project Title Text</b></h4>
@@ -123,7 +123,7 @@
 
                         <div class="galleryRow filter2">
                             <a href="#" class="g_item" title="project-photo-0002">
-                                <img src="assets/img/projects/project-photo-0002.jpg" alt="photo">
+                                <img src="assets/img/placeholder-640x700.png" alt="photo">
                                 <div class="text">
                                     <div>
                                         <h4><b>Project Title Text</b></h4>
@@ -132,7 +132,7 @@
                                 </div>
                             </a>
                             <a href="#" class="g_item">
-                                <img src="assets/img/projects/project-photo-0004.jpg" alt="photo">
+                                <img src="assets/img/placeholder-640x700.png" alt="photo">
                                 <div class="text">
                                     <div>
                                         <h4><b>Project Title Text</b></h4>
@@ -144,7 +144,7 @@
 
                         <div class="galleryRow filter3">
                             <a href="#" class="g_item">
-                                <img src="assets/img/projects/project-photo-0005.jpg" alt="photo">
+                                <img src="assets/img/placeholder-640x700.png" alt="photo">
                                 <div class="text">
                                     <div>
                                         <h4><b>Project Title Text</b></h4>
@@ -153,7 +153,7 @@
                                 </div>
                             </a>
                             <a href="#" class="g_item" >
-                                <img src="assets/img/projects/project-photo-0006.jpg" alt="photo">
+                                <img src="assets/img/placeholder-640x700.png" alt="photo">
                                 <div class="text">
                                     <div>
                                         <h4><b>Project Title Text</b></h4>
@@ -165,7 +165,7 @@
 
                         <div class="galleryRow filter4">
                             <a href="#" class="g_item">
-                                <img src="assets/img/projects/project-photo-0007.jpg" alt="photo">
+                                <img src="assets/img/placeholder-640x700.png" alt="photo">
                                 <div class="text">
                                     <div>
                                         <h4><b>Project Title Text</b></h4>
@@ -174,7 +174,7 @@
                                 </div>
                             </a>
                             <a href="#" class="g_item">
-                                <img src="assets/img/projects/project-photo-0008.jpg" alt="photo">
+                                <img src="assets/img/placeholder-640x700.png" alt="photo">
                                 <div class="text">
                                     <div>
                                         <h4><b>Project Title Text</b></h4>

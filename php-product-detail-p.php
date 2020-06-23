@@ -10,43 +10,43 @@
                     <div class="col-md-6">
                         <div class="productSlider productSliderMain">
                             <div class="slide">
-                                <img src="assets/img/products/product-list-02.jpg" alt="product photo">
+                                <img src="assets/img/placeholder-800x800.png" alt="product photo">
                             </div>
                             <div class="slide">
-                                <img src="assets/img/products/product-list-02a.jpg" alt="product photo">
+                                <img src="assets/img/placeholder-800x800.png" alt="product photo">
                             </div>
                             <div class="slide">
-                                <img src="assets/img/products/product-list-02b.jpg" alt="product photo">
+                                <img src="assets/img/placeholder-800x800.png" alt="product photo">
                             </div>
                             <div class="slide">
-                                <img src="assets/img/products/product-list-02c.jpg" alt="product photo">
+                                <img src="assets/img/placeholder-800x800.png" alt="product photo">
                             </div>
                             <div class="slide">
-                                <img src="assets/img/products/product-list-02d.jpg" alt="product photo">
+                                <img src="assets/img/placeholder-800x800.png" alt="product photo">
                             </div>
                             <div class="slide">
-                                <img src="assets/img/products/product-list-02e.jpg" alt="product photo">
+                                <img src="assets/img/placeholder-800x800.png" alt="product photo">
                             </div>
                         </div> <!-- productSlider -->
 
                         <div class="productSlider productSliderThumb">
                             <div class="slide">
-                                <img src="assets/img/products/product-list-02.jpg" alt="product photo">
+                                <img src="assets/img/placeholder-800x800.png" alt="product photo">
                             </div>
                             <div class="slide">
-                                <img src="assets/img/products/product-list-02a.jpg" alt="product photo">
+                                <img src="assets/img/placeholder-800x800.png" alt="product photo">
                             </div>
                             <div class="slide">
-                                <img src="assets/img/products/product-list-02b.jpg" alt="product photo">
+                                <img src="assets/img/placeholder-800x800.png" alt="product photo">
                             </div>
                             <div class="slide">
-                                <img src="assets/img/products/product-list-02c.jpg" alt="product photo">
+                                <img src="assets/img/placeholder-800x800.png" alt="product photo">
                             </div>
                             <div class="slide">
-                                <img src="assets/img/products/product-list-02d.jpg" alt="product photo">
+                                <img src="assets/img/placeholder-800x800.png" alt="product photo">
                             </div>
                             <div class="slide">
-                                <img src="assets/img/products/product-list-02e.jpg" alt="product photo">
+                                <img src="assets/img/placeholder-800x800.png" alt="product photo">
                             </div>
                         </div> <!-- productSlider -->
                     </div>
@@ -317,7 +317,7 @@
                     <div class="product col-md-3 lineThree">
                         <a href="#">
                             <figure class="photo">
-                                <img src="assets/img/products/product-list-03.jpg" alt="product">
+                                <img src="assets/img/placeholder-800x800.png" alt="product">
                                 <div class="overlay"></div>
                             </figure>
                             <div class="productInfo">
@@ -335,7 +335,7 @@
                                 <div class="tagSale">
                                     <span>Sale</span>
                                 </div>
-                                <img src="assets/img/products/product-list-04.jpg" alt="product">
+                                <img src="assets/img/placeholder-800x800.png" alt="product">
                                 <div class="overlay"></div>
                             </figure>
                             <div class="productInfo">
@@ -354,7 +354,7 @@
                                 <div class="tagSale">
                                     <span>Sale</span>
                                 </div>
-                                <img src="assets/img/products/product-list-05.jpg" alt="product">
+                                <img src="assets/img/placeholder-800x800.png" alt="product">
                                 <div class="overlay"></div>
                             </figure>
                             <div class="productInfo">
@@ -371,7 +371,7 @@
                     <div class="product col-md-3 lineThree">
                         <a href="#">
                             <figure class="photo">
-                                <img src="assets/img/products/product-list-06.jpg" alt="product">
+                                <img src="assets/img/placeholder-800x800.png" alt="product">
                                 <div class="overlay"></div>
                             </figure>
                             <div class="productInfo">

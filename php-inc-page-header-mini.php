@@ -1,4 +1,4 @@
-<div class="pageHeaderMini mb40 bgCover" style="background-image:url(assets/img/bg-page-header-mini.jpg);">
+<div class="pageHeaderMini mb40 bgCover" style="background-image:url(assets/img/placeholder-1920x90.png);">
     <div class="container">
         <div class="row">
             <div class="ccol col-md-12">

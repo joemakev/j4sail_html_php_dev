@@ -2,7 +2,7 @@
 
     <!-- Main Content -->
     <section id="main">
-        <div class="pageHeader bgCover mb60" style='background-image:url(assets/img/pixabay-construction-freephotos-condo-header.jpg)'>
+        <div class="pageHeader bgCover mb60" style='background-image:url(assets/img/placeholder-1920x450.png)'>
             <div class="container">
                 <div class="row">
                     <div class="ccol col-md-12">
@@ -46,7 +46,7 @@
                         </div>
 
                         <div class="photo mb-4">
-                            <img src="assets/img/project-detail-photo.jpg" alt="photo">
+                            <img src="assets/img/placeholder-1920x700.png" alt="photo">
                         </div>
 
                         <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -62,7 +62,7 @@
                     </div>
                     <div class="ccol col-md-4">
                         <a href="#">
-                            <img src="assets/img/projects/project-photo-0003.jpg" alt="photo">
+                            <img src="assets/img/placeholder-640x700.png" alt="photo">
                             <div class="text">
                                 <div>
                                     <h4><b>Project Title Text</b></h4>
@@ -73,7 +73,7 @@
                     </div>
                     <div class="ccol col-md-4">
                         <a href="#">
-                            <img src="assets/img/projects/project-photo-0002.jpg" alt="photo">
+                            <img src="assets/img/placeholder-640x700.png" alt="photo">
                             <div class="text">
                                 <div>
                                     <h4><b>Project Title Text</b></h4>
@@ -84,7 +84,7 @@
                     </div>
                     <div class="ccol col-md-4">
                         <a href="#">
-                            <img src="assets/img/projects/project-photo-0005.jpg" alt="photo">
+                            <img src="assets/img/placeholder-640x700.png" alt="photo">
                             <div class="text">
                                 <div>
                                     <h4><b>Project Title Text</b></h4>

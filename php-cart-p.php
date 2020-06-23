@@ -23,7 +23,7 @@
                                 <tbody>
                                     <tr class="cart_item">
                                         <td class="product-thumbnail">
-                                            <a href="#"><img src="assets/img/products/product-related-01.jpg" alt="product"></a>
+                                            <a href="#"><img src="assets/img/placeholder-300x300.png" alt="product"></a>
                                         </td>
                                         <td data-title="Product" class="product-name">
                                             <a href="#">Rare Gadget Item No. 1</a>
@@ -48,7 +48,7 @@
 
                                     <tr class="cart_item">
                                          <td class="product-thumbnail">
-                                            <a href="#"><img src="assets/img/products/product-related-02.jpg" alt="product"></a>
+                                            <a href="#"><img src="assets/img/placeholder-300x300.png" alt="product"></a>
                                         </td>
                                         <td data-title="Product" class="product-name">
                                             <a href="#">Rare Gadget Special Good Useful Item No. 2</a>
@@ -73,7 +73,7 @@
 
                                     <tr class="cart_item">
                                          <td class="product-thumbnail">
-                                            <a href="#"><img src="assets/img/products/product-related-03.jpg" alt="product"></a>
+                                            <a href="#"><img src="assets/img/placeholder-300x300.png" alt="product"></a>
                                         </td>
                                         <td data-title="Product" class="product-name">
                                             <a href="#">Rare Gadget Special Good Useful Item No. 3</a>

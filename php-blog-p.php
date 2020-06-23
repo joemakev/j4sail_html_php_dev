@@ -2,7 +2,7 @@
 
     <!-- Main Content -->
     <section id="main">
-        <div class="pageHeader bgCover bgTopRight mb60" style='background-image:url(assets/img/pixabay-corporate-jeshoots-chess-pawn.jpg)'>
+        <div class="pageHeader bgCover bgTopRight mb60" style='background-image:url(assets/img/placeholder-1920x450.png)'>
             <div class="container">
                 <div class="row">
                     <div class="ccol col-md-12">
@@ -67,7 +67,7 @@
                                     <li>
                                         <a href="#">
                                             <div>
-                                                <img src="assets/img/blog/blog-related-01.jpg" alt="product">
+                                                <img src="assets/img/placeholder-300x300.png" alt="product">
                                             </div>
                                             <div>
                                                 <strong>Sample Title for Blog Post 1</strong>
@@ -80,7 +80,7 @@
                                     <li>
                                         <a href="#">
                                             <div>
-                                                <img src="assets/img/blog/blog-related-02.jpg" alt="product">
+                                                <img src="assets/img/placeholder-300x300.png" alt="product">
                                             </div>
                                             <div>
                                                 <strong>Sample Title for Blog Post 2</strong>
@@ -93,7 +93,7 @@
                                     <li>
                                         <a href="#">
                                             <div>
-                                                <img src="assets/img/blog/blog-related-03.jpg" alt="product">
+                                                <img src="assets/img/placeholder-300x300.png" alt="product">
                                             </div>
                                             <div>
                                                 <strong>Sample Title for Blog Post 3</strong>
@@ -130,7 +130,7 @@
                     <div class="blogList col-md-9">
                         <div class="blogItem">
                             <a href="#" class="photo">
-                                <img src="assets/img/blog/blog-list-01.jpg" alt="blog photo">
+                                <img src="assets/img/placeholder-400x400.png" alt="blog photo">
                             </a>
                             <div class="text">
                                 <h3 class="mb-2"><b><a href="#" class="textBlue">Sample Title for Blog Post 16</a></b></h3>
@@ -150,7 +150,7 @@
 
                         <div class="blogItem">
                             <a href="#" class="photo">
-                                <img src="assets/img/blog/blog-list-02.jpg" alt="blog photo">
+                                <img src="assets/img/placeholder-400x400.png" alt="blog photo">
                             </a>
                             <div class="text">
                                 <h3 class="mb-2"><b><a href="#" class="textBlue">Sample Title for Blog Post 15</a></b></h3>
@@ -170,7 +170,7 @@
 
                         <div class="blogItem">
                             <a href="#" class="photo">
-                                <img src="assets/img/blog/blog-list-03.jpg" alt="blog photo">
+                                <img src="assets/img/placeholder-400x400.png" alt="blog photo">
                             </a>
                             <div class="text">
                                 <h3 class="mb-2"><b><a href="#" class="textBlue">Sample Title for Blog Post 14</a></b></h3>
@@ -190,7 +190,7 @@
 
                         <div class="blogItem">
                             <a href="#" class="photo">
-                                <img src="assets/img/blog/blog-list-04.jpg" alt="blog photo">
+                                <img src="assets/img/placeholder-400x400.png" alt="blog photo">
                             </a>
                             <div class="text">
                                 <h3 class="mb-2"><b><a href="#" class="textBlue">Sample Title for Blog Post 13</a></b></h3>
@@ -210,7 +210,7 @@
 
                         <div class="blogItem">
                             <a href="#" class="photo">
-                                <img src="assets/img/blog/blog-list-05.jpg" alt="blog photo">
+                                <img src="assets/img/placeholder-400x400.png" alt="blog photo">
                             </a>
                             <div class="text">
                                 <h3 class="mb-2"><b><a href="#" class="textBlue">Sample Title for Blog Post 12</a></b></h3>

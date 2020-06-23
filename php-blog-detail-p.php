@@ -2,7 +2,7 @@
 
     <!-- Main Content -->
     <section id="main">
-        <div class="pageHeader downSize bgCover mb60" style='background-image:url(assets/img/pixabay-office-michaelgaida-archi-building.jpg)'>
+        <div class="pageHeader downSize bgCover mb60" style='background-image:url(assets/img/placeholder-1920x160.png)'>
             <div class="container">
                 <div class="row">
                     <div class="ccol col-md-12">
@@ -67,7 +67,7 @@
                                     <li>
                                         <a href="#">
                                             <div>
-                                                <img src="assets/img/blog/blog-related-01.jpg" alt="product">
+                                                <img src="assets/img/placeholder-300x300.png" alt="product">
                                             </div>
                                             <div>
                                                 <strong>Sample Title for Blog Post 1</strong>
@@ -80,7 +80,7 @@
                                     <li>
                                         <a href="#">
                                             <div>
-                                                <img src="assets/img/blog/blog-related-02.jpg" alt="product">
+                                                <img src="assets/img/placeholder-300x300.png" alt="product">
                                             </div>
                                             <div>
                                                 <strong>Sample Title for Blog Post 2</strong>
@@ -93,7 +93,7 @@
                                     <li>
                                         <a href="#">
                                             <div>
-                                                <img src="assets/img/blog/blog-related-03.jpg" alt="product">
+                                                <img src="assets/img/placeholder-300x300.png" alt="product">
                                             </div>
                                             <div>
                                                 <strong>Sample Title for Blog Post 3</strong>
@@ -141,7 +141,7 @@
                         <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Pri posse graeco definitiones cu, id eam populo quaestio adipiscing, usu quod malorum te. Quas scaevola postulant id vis, tincidunt assueverit et pro, quo et alii scripta accommodare. Pri posse graeco definitiones cu, id eam populo quaestio adipiscing, usu quod malorum te.</p>
 
                         <div class="photo mb-4">
-                            <img src="assets/img/blog/blog-detail-photo-01.jpg" alt="photo">
+                            <img src="assets/img/placeholder-1024x500.png" alt="photo">
                         </div>
                         
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>

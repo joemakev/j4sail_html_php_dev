@@ -2,7 +2,7 @@
 
     <!-- Main Content -->
     <section id="main">
-        <div class="pageHeader bgCover bgTopRight mb60" style='background-image:url(assets/img/pixabay-company-picjumbo-office-desk-phone-02.jpg)'>
+        <div class="pageHeader bgCover bgTopRight mb60" style='background-image:url(assets/img/placeholder-1920x450.png)'>
             <div class="container">
                 <div class="row">
                     <div class="ccol col-md-12">

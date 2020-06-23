@@ -3,7 +3,7 @@
     <!-- Main Content -->
     <section id="main">
         <div class="homeSlider customSlider">
-            <div class="slide n2 bgCover" style='background-image:url(assets/img/home-slider-02b.jpg);'>
+            <div class="slide n2 bgCover" style='background-image:url(assets/img/placeholder-1920x850.png);'>
                 <h2 class="mb-2 white">Grow Your Business</h2>
                 <h4 class="mb-5"><em class="white">Implement new strategies</em></h4>
                 <div class="linkDiv">
@@ -11,7 +11,7 @@
                 </div>
             </div>
 
-            <div class="slide n1 bgCover" style='background-image:url(assets/img/home-slider-01.jpg);'>
+            <div class="slide n1 bgCover" style='background-image:url(assets/img/placeholder-1920x850.png);'>
                 <h2 class="mb-2">Sail the Open Sea!</h2>
                 <h4 class="mb-5"><em>Discover new horizons</em></h4>
                 <div class="linkDiv">
@@ -19,7 +19,7 @@
                 </div>
             </div>
 
-            <div class="slide n3 bgCover" style='background-image:url(assets/img/home-slider-03.jpg);'>
+            <div class="slide n3 bgCover" style='background-image:url(assets/img/placeholder-1920x850.png);'>
                 <h2 class="mb-2 white">Affordable Products</h2>
                 <h4 class="mb-5"><em class="white">Complete item collection</em></h4>
                 <div class="linkDiv">
@@ -58,7 +58,7 @@
                             <span> Lightweight HTML5 Template</span>
                         </h1>
 
-                        <img class="mainTitlePhoto invisible mb-4" data-anim='visible animated fadeIn' src="assets/img/pixabay-business-kaboompics-technology.jpg" alt="photo">
+                        <img class="mainTitlePhoto invisible mb-4" data-anim='visible animated fadeIn' src="assets/img/placeholder-1600x558.png" alt="photo">
                         
                         <p class="mainTitleText invisible text-left" data-anim="animated fadeIn">
                             Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Vivendum intellegat et qui, ei denique consequuntur vix. Offendit eleifend moderatius ex vix, quem odio mazim et qui, purto expetendis cotidieque quo cu, veri persius vituperata ei nec. Pro ea animal dolores. Accusam explicari sed ei. Ei qui diceret voluptua luptatum, te dolorum detracto hendrerit sed, ad per offendit consetetur. Vivendum intellegat et qui, ei denique consequuntur vix.
@@ -75,12 +75,12 @@
         <div class="halfBg mb60">
             <div class='container-fluid'>
                 <div class="row">
-                    <div class="ccol col-md-6 bgCover" style='background-image:url(assets/img/bg-pixabay-wfranz-sunset.jpg)'></div>
+                    <div class="ccol col-md-6 bgCover" style='background-image:url(assets/img/placeholder-1024x576.png)'></div>
                     <div class="ccol col-md-6 p-5">
                         <h4 class="mb-2">Business Approach</h4>
                         <h2 class="mb-4"><b>Convincing Clients to Invest</b></h2>
                         <div class="photo mb-4">
-                            <img class="photo" src="assets/img/pixabay-business-free-photos-office.jpg" alt="photo">
+                            <img class="photo" src="assets/img/placeholder-1024x472.png" alt="photo">
                         </div>
                         <p class="mb-0">Saepe imperdiet at per, appareat vituperata vix te, pri sint assueverit te. Qui gloriatur scribentur et, id velit verear mel, cum no porro debet. Pri posse graeco definitiones cu, id eam populo quaestio adipiscing, usu quod malorum te. Pri posse graeco definitiones cu, id eam populo quaestio adipiscing, usu quod malorum te. Vivendum intellegat et qui, ei denique. <a href="#"> Read more</a></p>
                     </div>
@@ -165,7 +165,7 @@
                         <a href="php-about-p.php" class="btn btn-border font-weight-bold px-4 py-3">The Company</a>
                     </div>
                     <div class="ccol col-md-6">
-                        <img class="inline_block_100" src="assets/img/pixabay-job-kaboompics-woman.jpg" alt="job woman">
+                        <img class="inline_block_100" src="assets/img/placeholder-1024x594.png" alt="job woman">
                     </div>
                 </div>
             </div>
@@ -198,6 +198,6 @@
 
     </section> <!-- end of #main -->
 
-    <?php require_once('php-inc-cta-bottom.php'); ?>
+    <?php require_once('php-inc-cta-bottom-2.php'); ?>
 
 <?php require_once('php-inc-footer-2.php'); ?>
